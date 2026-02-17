@@ -1,2 +1,1 @@
-# 2dx_extract_python
-Extract 2dx files
+original repository: https://github.com/iDestyKK/2dx_extract
